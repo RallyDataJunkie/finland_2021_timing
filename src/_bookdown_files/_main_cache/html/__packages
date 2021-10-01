@@ -1,0 +1,13 @@
+base
+knitr
+kableExtra
+formattable
+jsonlite
+stringr
+dplyr
+purrr
+tidyr
+ggplot2
+directlabels
+sparkline
+reticulate

@@ -1,0 +1,37 @@
+Starting build
+Done setup
+Enter overall_driver_template OGI
+Enter overall_driver_template EVA
+Enter overall_driver_template NEU
+Enter overall_driver_template ROV
+Enter overall_driver_template TÄN
+Enter overall_driver_template KAT
+Enter overall_driver_template BRE
+Enter overall_driver_template GRE
+Enter overall_driver_template FOU
+Enter overall_driver_template LAP
+Enter stage_result_template SS1
+test-template IN:  SS1
+test-template OUT:  SS1
+Enter driver_template 23797
+Leave driver_template 23797
+Enter driver_template 23798
+Leave driver_template 23798
+Enter driver_template 23799
+Leave driver_template 23799
+Enter driver_template 23800
+Leave driver_template 23800
+Enter driver_template 23801
+Leave driver_template 23801
+Enter driver_template 23802
+Leave driver_template 23802
+Enter driver_template 23803
+Leave driver_template 23803
+Enter driver_template 23804
+Leave driver_template 23804
+Enter driver_template 23805
+Leave driver_template 23805
+Enter driver_template 23806
+Leave driver_template 23806
+Leave stage_result_template SS1
+Finished build
